@@ -7,13 +7,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosamsl51&label=Profile%20views&color=0e75b6&style=flat" alt="rosamsl51" /> </p>
 
 
-- 🌱 I’m currently learning **.**
 
 - 🤝 My projects [.](.)
 
 - 📝 My tutorials [.](.)
 
 - 💬 Ask me about **.**
+
+- 🌱 Certificates **.**
 
 
 
