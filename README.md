@@ -1,27 +1,21 @@
-<h1 align="center">Hi 👋, I'm RMSL51</h1>
+(![MasterHead](https://.....)](https://rosamsl51.io)
+
+<h1 align="center">RMSL51</h1>
 <h3 align="center">tbd</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosamsl51&label=Profile%20views&color=0e75b6&style=flat" alt="rosamsl51" /> </p>
 
-- 🔭 I’m currently working on [.](.)
 
 - 🌱 I’m currently learning **.**
 
-- 👯 I’m looking to collaborate on [.](.)
+- 🤝 My projects [.](.)
 
-- 🤝 I’m looking for help with [.](.)
-
-- 👨‍💻 All of my projects are available at [.](.)
-
-- 📝 I regularly write articles on [.](.)
+- 📝 My tutorials [.](.)
 
 - 💬 Ask me about **.**
 
-- 📫 How to reach me **.**
 
-- 📄 Know about my experiences [.](.)
-
-- ⚡ Fun fact **.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
